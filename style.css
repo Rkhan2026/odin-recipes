@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    background-color: aqua;
+    font-weight: bold;   
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 23px;
+    background-color: red;
+}
+
+p {
+    background-color: yellow;
+}
+
+h3 {
+    background-color: blueviolet;
+    font-size: 23px ;
+}
+
+ul {
+    background-color: navajowhite;
+}
+
+h4 {
+    background-color: aquamarine;
+    font-size: 29px;
+}
+
+ol {
+    font-size: 29px;
+    background-color: brown;
+}
